@@ -1,0 +1,12 @@
+D:\Projetos\FruitStore\FruitStore.Application\bin\Debug\net5.0\FruitStore.Application.deps.json
+D:\Projetos\FruitStore\FruitStore.Application\bin\Debug\net5.0\FruitStore.Application.dll
+D:\Projetos\FruitStore\FruitStore.Application\bin\Debug\net5.0\ref\FruitStore.Application.dll
+D:\Projetos\FruitStore\FruitStore.Application\bin\Debug\net5.0\FruitStore.Application.pdb
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\FruitStore.Application.csproj.AssemblyReference.cache
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\FruitStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\FruitStore.Application.AssemblyInfoInputs.cache
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\FruitStore.Application.AssemblyInfo.cs
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\FruitStore.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\FruitStore.Application.dll
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\ref\FruitStore.Application.dll
+D:\Projetos\FruitStore\FruitStore.Application\obj\Debug\net5.0\FruitStore.Application.pdb

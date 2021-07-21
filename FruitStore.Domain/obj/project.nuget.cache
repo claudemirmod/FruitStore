@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PP5cMY4DtF1azoOEqbtd5adfgf34aXDyPRgfw9T73q9+2SWnn7YU8KMBV38v3KQSLVPI1zqMN+oYZVXqx28N7w==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\FruitStore\\FruitStore.Domain\\FruitStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claud\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.0\\fluentvalidation.aspnetcore.10.3.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.0\\fluentvalidation.dependencyinjectionextensions.10.3.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

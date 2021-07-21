@@ -1,0 +1,17 @@
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\FruitStore.Service.deps.json
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\FruitStore.Service.dll
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\ref\FruitStore.Service.dll
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\FruitStore.Service.pdb
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\FruitStore.Domain.dll
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\FruitStore.Domain.pdb
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.csproj.AssemblyReference.cache
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.AssemblyInfoInputs.cache
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.AssemblyInfo.cs
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.csproj.CoreCompileInputs.cache
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.csproj.CopyComplete
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.dll
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\ref\FruitStore.Service.dll
+D:\Projetos\FruitStore\FruitStore.Service\obj\Debug\net5.0\FruitStore.Service.pdb
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\FruitStore.Application.dll
+D:\Projetos\FruitStore\FruitStore.Service\bin\Debug\net5.0\FruitStore.Application.pdb

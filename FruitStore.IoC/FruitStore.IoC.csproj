@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FruitStore.Application\FruitStore.Application.csproj" />
+    <ProjectReference Include="..\FruitStore.Domain\FruitStore.Domain.csproj" />
+    <ProjectReference Include="..\FruitStore.Infra.Data\FruitStore.Infra.Data.csproj" />
+    <ProjectReference Include="..\FruitStore.Service\FruitStore.Service.csproj" />
+  </ItemGroup>
+
+</Project>

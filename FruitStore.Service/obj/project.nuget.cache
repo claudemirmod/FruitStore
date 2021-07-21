@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQ1oHNC43hmww2kOws1Zz2LRY1SMDduU4aw0tzlsqqCjTBsz4gN+7Bw8m+4EHK5jgngMNSVbelx+5txGcvsOtQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\FruitStore\\FruitStore.Service\\FruitStore.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claud\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.0\\fluentvalidation.aspnetcore.10.3.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.0\\fluentvalidation.dependencyinjectionextensions.10.3.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.1\\microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.1\\microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.1\\system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
