@@ -22,10 +22,12 @@ namespace FruitStore.Api.Controllers
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public IActionResult Get()
             => Execute(() => _baseFrutaService.Obter<FrutaModel>());
 
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public IActionResult Get(int id)
         {
             if (id == 0)

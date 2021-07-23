@@ -1,5 +1,4 @@
 ﻿using FruitStore.Application.Models.Pedido;
-using FruitStore.Application.Models.Pedido;
 using FruitStore.Domain.Entities;
 using FruitStore.Domain.Interfaces;
 using FruitStore.Service.Validators;
@@ -38,11 +37,17 @@ namespace FruitStore.Api.Controllers
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public IActionResult Create([FromBody] CreatePedidoModel pedido)
         {
             if (pedido == null)
                 return NotFound();
+            pedido.Usuario = null;
 
+            foreach(PedidoItemModel item in pedido.Itens)
+            {
+                item.Fruta = null;
+            }
             return Execute(() => _pedidoService.NovoPedido(pedido));
         }
 

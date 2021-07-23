@@ -1,3 +1,4 @@
+using FruitStore.Api.Middlewares;
 using FruitStore.Infra.Data.Context;
 using FruitStore.IoC.Configurations;
 using FruitStore.IoC.Injectors;
@@ -78,6 +79,10 @@ namespace FruitStore.Api
                 };
             });
 
+            services.AddCors();
+
+            services.AddMvc();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -90,10 +95,18 @@ namespace FruitStore.Api
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "FruitStore.Api v1"));
             }
 
+            app.UseCors(builder => builder
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .SetIsOriginAllowed((host) => true)
+                .AllowCredentials()
+            );
+
+            app.UseMiddleware<CorMiddleware>();
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
             app.UseAuthentication();
             app.UseAuthorization();
 

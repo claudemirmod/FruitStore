@@ -58,7 +58,7 @@ namespace FruitStore.Infra.Data.Migrations
                     b.Property<int>("IdUsuario")
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("Total")
+                    b.Property<decimal>("Total")
                         .HasColumnType("numeric")
                         .HasColumnName("Total");
 
